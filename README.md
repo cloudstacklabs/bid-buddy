@@ -10,3 +10,7 @@ npx drizzle-kit push --config=drizzle.config.ts
 
 Drizzle Studio
 npx drizzle-kit studio --config=drizzle.config.ts
+
+
+shadcn:
+npx shadcn-ui@latest init
