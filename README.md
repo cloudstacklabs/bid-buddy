@@ -14,3 +14,7 @@ npx drizzle-kit studio --config=drizzle.config.ts
 
 shadcn:
 npx shadcn-ui@latest init
+
+authjs:
+npm install next-auth@beta
+npx auth secret
